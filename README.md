@@ -15,3 +15,4 @@ https://grouplens.org/datasets/movielens/100k/
 
 # Github Reference
 https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation
+https://github.com/guofei9987/scikit-opt
